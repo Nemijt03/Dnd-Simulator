@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T11:51:53.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="FCbdf5x0K9cGm50VF9Hu" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T12:05:35.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="BuaeQV_mWjE-1lR1QiJu" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2983" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,6 +309,9 @@
         <mxCell id="LVBtN3Xu9n1xNQjiw8Hy-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="45" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Cl5gu3eHejJXQflmZrxa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A_jg6QtYTX-o13DUDRs6-8" target="Cl5gu3eHejJXQflmZrxa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A_jg6QtYTX-o13DUDRs6-8" value="NPC Builder" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1110" y="500" width="120" height="40" as="geometry" />
         </mxCell>
@@ -329,6 +332,9 @@
         </mxCell>
         <mxCell id="Cl5gu3eHejJXQflmZrxa-2" value="Line between old and new token (distance)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="490" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Cl5gu3eHejJXQflmZrxa-4" value="Standard monsters&lt;br&gt;preloaded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1290" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
