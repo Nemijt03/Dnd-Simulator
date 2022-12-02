@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T12:05:35.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="BuaeQV_mWjE-1lR1QiJu" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T12:06:12.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ULJrLyuyv7zbAsGGzG5x" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2983" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -146,7 +146,7 @@
         <mxCell id="jx4LFwp-OBBai578u4oB-11" value="Map Builder" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1110" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cl5gu3eHejJXQflmZrxa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jx4LFwp-OBBai578u4oB-13" target="Cl5gu3eHejJXQflmZrxa-2">
+        <mxCell id="Cl5gu3eHejJXQflmZrxa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jx4LFwp-OBBai578u4oB-13" target="Cl5gu3eHejJXQflmZrxa-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jx4LFwp-OBBai578u4oB-13" value="Movement" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -309,16 +309,16 @@
         <mxCell id="LVBtN3Xu9n1xNQjiw8Hy-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CDA2BE;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="45" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Cl5gu3eHejJXQflmZrxa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A_jg6QtYTX-o13DUDRs6-8" target="Cl5gu3eHejJXQflmZrxa-4">
+        <mxCell id="Cl5gu3eHejJXQflmZrxa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="A_jg6QtYTX-o13DUDRs6-8" target="Cl5gu3eHejJXQflmZrxa-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A_jg6QtYTX-o13DUDRs6-8" value="NPC Builder" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1110" y="500" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cl5gu3eHejJXQflmZrxa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N38WtRVTKWSG2oZ_eV62-0" target="Cl5gu3eHejJXQflmZrxa-0">
+        <mxCell id="Cl5gu3eHejJXQflmZrxa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N38WtRVTKWSG2oZ_eV62-0" target="Cl5gu3eHejJXQflmZrxa-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N38WtRVTKWSG2oZ_eV62-0" value="Ability to Roll Dice" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="N38WtRVTKWSG2oZ_eV62-0" value="Ability to Roll Dice" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1654" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N38WtRVTKWSG2oZ_eV62-2" value="Ability to Chat with all players" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -327,13 +327,13 @@
         <mxCell id="N38WtRVTKWSG2oZ_eV62-4" value="Ability to Open Character Sheet" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1654" y="330" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cl5gu3eHejJXQflmZrxa-0" value="Animation of Dice Roll" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Cl5gu3eHejJXQflmZrxa-0" value="Animation of Dice Roll" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1870" y="290" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cl5gu3eHejJXQflmZrxa-2" value="Line between old and new token (distance)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Cl5gu3eHejJXQflmZrxa-2" value="Line between old and new token (distance)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="490" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Cl5gu3eHejJXQflmZrxa-4" value="Standard monsters&lt;br&gt;preloaded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Cl5gu3eHejJXQflmZrxa-4" value="Standard monsters&lt;br&gt;preloaded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1290" y="510" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
