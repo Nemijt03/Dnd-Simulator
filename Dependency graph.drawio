@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T19:55:59.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="wh62DngWmwpHK7ao5yJv" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T11:05:57.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WpAjMM9Bs188GYVF4WDz" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1000" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -142,6 +142,21 @@
         </mxCell>
         <mxCell id="jx4LFwp-OBBai578u4oB-9" value="Character Builder" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1110" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PLFyVgOX9-mNOMrsPlwj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jx4LFwp-OBBai578u4oB-11" target="PLFyVgOX9-mNOMrsPlwj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLFyVgOX9-mNOMrsPlwj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jx4LFwp-OBBai578u4oB-11" target="PLFyVgOX9-mNOMrsPlwj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLFyVgOX9-mNOMrsPlwj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jx4LFwp-OBBai578u4oB-11" target="PLFyVgOX9-mNOMrsPlwj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLFyVgOX9-mNOMrsPlwj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jx4LFwp-OBBai578u4oB-11" target="PLFyVgOX9-mNOMrsPlwj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLFyVgOX9-mNOMrsPlwj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jx4LFwp-OBBai578u4oB-11" target="PLFyVgOX9-mNOMrsPlwj-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jx4LFwp-OBBai578u4oB-11" value="Map Builder" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1110" y="460" width="120" height="40" as="geometry" />
@@ -334,7 +349,22 @@
           <mxGeometry x="140" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cl5gu3eHejJXQflmZrxa-4" value="Standard monsters&lt;br&gt;preloaded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1290" y="510" width="120" height="40" as="geometry" />
+          <mxGeometry x="1210" y="565" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PLFyVgOX9-mNOMrsPlwj-1" value="Terrains" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1480" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PLFyVgOX9-mNOMrsPlwj-6" value="Walls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1480" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PLFyVgOX9-mNOMrsPlwj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PLFyVgOX9-mNOMrsPlwj-7" target="PLFyVgOX9-mNOMrsPlwj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PLFyVgOX9-mNOMrsPlwj-7" value="Doors" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1480" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PLFyVgOX9-mNOMrsPlwj-8" value="Windows" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1480" y="580" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
