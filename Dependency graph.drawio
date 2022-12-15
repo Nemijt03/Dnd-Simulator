@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T13:33:41.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="I-8zuvNWNn5W2C0BN9oY" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T13:36:38.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="S1ZD0vKUAyOIwMw_g60X" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1635" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,6 +20,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jx4LFwp-OBBai578u4oB-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X6m0LNsTIrMTmhEbzn1Y-8" target="jx4LFwp-OBBai578u4oB-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X6m0LNsTIrMTmhEbzn1Y-8" target="xcjUsqAZkLKpECckwg2L-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X6m0LNsTIrMTmhEbzn1Y-8" value="Game Elements" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -170,7 +173,11 @@
           <mxGeometry x="1110" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cl5gu3eHejJXQflmZrxa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jx4LFwp-OBBai578u4oB-13" target="Cl5gu3eHejJXQflmZrxa-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="630" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jx4LFwp-OBBai578u4oB-13" value="Movement" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="400" width="120" height="40" as="geometry" />
@@ -358,7 +365,7 @@
           <mxGeometry x="1870" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cl5gu3eHejJXQflmZrxa-2" value="Line between old and new token (distance)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="140" y="490" width="120" height="50" as="geometry" />
+          <mxGeometry x="50" y="605" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Cl5gu3eHejJXQflmZrxa-4" value="Standard monsters&lt;br&gt;preloaded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1210" y="600" width="120" height="40" as="geometry" />
@@ -389,6 +396,33 @@
         </mxCell>
         <mxCell id="xcjUsqAZkLKpECckwg2L-8" value="Grid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="364" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-11" value="Online implementation" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="480" as="sourcePoint" />
+            <mxPoint x="170" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-14" value="Not being able to walk through walls" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="655" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-15" value="Measuring not directly, but using walls too" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="695" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="525" as="sourcePoint" />
+            <mxPoint x="170" y="715" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="715" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
