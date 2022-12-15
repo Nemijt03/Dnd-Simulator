@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T13:39:17.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="k0nhFjOsviKVIiD4defz" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T13:40:56.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 OPR/93.0.0.0" etag="4-Ep5IV95AUMY4AQOrTs" version="20.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2462" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="xcjUsqAZkLKpECckwg2L-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#660000;strokeColor=#660000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xcjUsqAZkLKpECckwg2L-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#660000;strokeColor=#660000;startArrow=none;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xcjUsqAZkLKpECckwg2L-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="290" as="sourcePoint" />
             <mxPoint x="1110" y="520" as="targetPoint" />
@@ -276,6 +276,9 @@
         <mxCell id="jx4LFwp-OBBai578u4oB-29" value="Race" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="750" y="440" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jx4LFwp-OBBai578u4oB-31" target="xcjUsqAZkLKpECckwg2L-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jx4LFwp-OBBai578u4oB-31" value="Spells" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="750" y="480" width="120" height="40" as="geometry" />
         </mxCell>
@@ -467,6 +470,40 @@
         </mxCell>
         <mxCell id="xcjUsqAZkLKpECckwg2L-20" value="NPC Builder" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-20" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-25" value="Saving and exporting a map" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="480" as="sourcePoint" />
+            <mxPoint x="364" y="690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-27" value="Loading a map" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="520" as="sourcePoint" />
+            <mxPoint x="364" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-29" value="Make a few spells possible" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xcjUsqAZkLKpECckwg2L-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#660000;strokeColor=#660000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="xcjUsqAZkLKpECckwg2L-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="290" as="sourcePoint" />
+            <mxPoint x="1110" y="520" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
